@@ -57,6 +57,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
+</div>
+
 ###
 
 <h4 align="center">* * *</h4>
@@ -74,23 +78,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
   </a>
 </div>
-
-
-<div align="center">
-    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
-</div>
-
-###
-
-<h4 align="center">* * *</h4>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
