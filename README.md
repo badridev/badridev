@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="/gif/Add a heading.gif"  />
+  <img height="400" src="/gif/Add a heading.gif"  />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bd-yassine&show_icons=true&locale=en" alt="bd-yassine" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=bd-yassine&show_icons=true&locale=en" alt="bd-yassine" /></div>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd-yassine" alt="bd-yassine" /></a> </p>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd-yassine" alt="bd-yassine" /></a> </div>
 
 ###
 
