@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="/gif/Add a heading.gif"  />
+  <img height="350" src="/gif/Add a heading.gif"  />
 </div>
 
 ###
