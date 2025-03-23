@@ -80,15 +80,3 @@
 </div>
 
 ###
-
-<h4 align="center">* * *</h4>
-
-###
-
-<div align="center">
-    <img height="300" src="/gif/Developer Full Stack (4).gif"  />
-</div>
-
-###
-
-
