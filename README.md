@@ -2,8 +2,6 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
 
-###
-
 <div align="center">
     <img height="300" src="/gif/Developer Full Stack.gif"  />
 </div>
