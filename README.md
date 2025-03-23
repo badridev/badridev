@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="/gif/Add-a-heading-unscreen.gif"  />
+  <img height="300" src="/gif/Add-a-heading-unscreen.gif"  />
 </div>
 
 ###
@@ -43,14 +43,15 @@
 ###
 
 <h3 align="center">MY STATS...</h3>
+
+###
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bd-yassine&show_icons=true&locale=en" alt="bd-yassine" /></p>
 
 ###
 
 <h3 align="center">CONTACT ME...</h3>
-<p align="center">
-<a href="https://twitter.com/https://x.com/yassine_o2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/yassine_o2" height="30" width="40" /></a>
-</p>
+
 ###
 
 <div align="center">
@@ -68,6 +69,9 @@
 ###
 
 <h3 align="center">GITHUB TROPHY...</h3>
+
+###
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd-yassine" alt="bd-yassine" /></a> </p>
 
 ###
