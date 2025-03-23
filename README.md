@@ -1,14 +1,14 @@
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
+
+###
+
 <div align="center">
   <img height="350" src="/gif/Add a heading.gif"  />
 </div>
 
 ###
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
-
-###
-
-<h3 align="center">ABOUT ME ...</h3>
+<h3 align="center">ABOUT ME</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">LANGUAGES & TOOLS...</h3>
+<h3 align="center">LANGUAGES & TOOLS</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="center">MY STATS...</h3>
+<h3 align="center">MY STATS</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="center">CONTACT ME...</h3>
+<h3 align="center">CONTACT ME</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="center">GITHUB TROPHY...</h3>
+<h3 align="center">GITHUB TROPHY</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="center">CHILL...</h3>
+<h3 align="center">CHILL</h3>
 
 ###
 
