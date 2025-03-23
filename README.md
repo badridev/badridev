@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-    <img width="500" src="/gif/Developer_Full_Stack-removebg-preview.png"  />
+    <img width="1000" src="/gif/Developer_Full_Stack-removebg-preview.png"  />
 </div>
 
 ###
