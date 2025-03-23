@@ -89,10 +89,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
+<div align="center">
+    <img height="300" src="/gif/Developer_Full_Stack-removebg-preview.png"  />
+</div>
 
 ###
 
