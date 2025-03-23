@@ -4,6 +4,10 @@
 
 ###
 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
+
+###
+
 <h3 align="center">ABOUT ME ...</h3>
 
 ###
