@@ -1,11 +1,13 @@
-<div align="center">
-    <img height="350" src="/gif/Developer Full Stack.gif"  />
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/BD-YASSINE/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+    <img height="300" src="/gif/Developer Full Stack.gif"  />
 </div>
 
 ###
@@ -65,9 +67,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="155" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BD-YASSINE&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="155" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BD-YASSINE&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph"  />
 </div>
 
