@@ -1,8 +1,6 @@
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BD-YASSINE.BD-YASSINE&right_color=green"  />
-</div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="center">-----------------------------------------</p>
 
 ###
 
@@ -58,7 +56,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="center">-----------------------------------------</p>
 
 ###
 
@@ -75,7 +73,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="center">-----------------------------------------</p>
 
 ###
 
@@ -97,7 +95,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="center">-----------------------------------------</p>
 
 ###
 
@@ -115,6 +113,3 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
