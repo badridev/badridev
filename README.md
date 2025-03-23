@@ -1,13 +1,18 @@
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
-
-###
-
 <div align="center">
-  <img height="350" src="/gif/Add a heading.gif"  />
+    <img height="350" src="/gif/Developer Full Stack.gif"  />
 </div>
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
 
 <h3 align="center">ABOUT ME</h3>
 
@@ -19,6 +24,9 @@
 
 ###
 
+<p align="left"></p>
+
+###
 
 <h3 align="center">LANGUAGES & TOOLS</h3>
 
@@ -48,15 +56,26 @@
 
 ###
 
+<p align="left"></p>
+
+###
 
 <h3 align="center">MY STATS</h3>
 
 ###
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=bd-yassine&show_icons=true&locale=en" alt="bd-yassine" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="155" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BD-YASSINE&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="155" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph"  />
+</div>
 
 ###
 
+<p align="left"></p>
+
+###
 
 <h3 align="center">CONTACT ME</h3>
 
@@ -76,19 +95,15 @@
 
 ###
 
-
-<h3 align="center">GITHUB TROPHY</h3>
-
-###
-
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd-yassine" alt="bd-yassine" /></a> </div>
+<p align="left"></p>
 
 ###
-
 
 <h3 align="center">CHILL</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/31t52zcahfamxhyfsssn3i3lbyx4">
@@ -98,8 +113,6 @@
 
 ###
 
-<div align="center">
-  <img height="350" src="/gif/Add a heading (1).gif"  />
-</div>
+<p align="left">Hello World!!</p>
 
 ###
