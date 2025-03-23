@@ -90,8 +90,9 @@
 ###
 
 <div align="center">
-    <img width="1050" src="/gif/Developer_Full_Stack-removebg-preview.png"  />
+    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
 </div>
+
 
 ###
 
