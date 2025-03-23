@@ -51,6 +51,24 @@
 ###
 
 <div align="center">
+  <a href="https://x.com/yassine_o2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/29984959/yassi-ne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://discord.com/users/1325979065269882914" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="center">* * *</h4>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="178" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="178" alt="languages graph"  />
   
@@ -68,15 +86,7 @@
 ###
 
 <div align="center">
-  <a href="https://x.com/yassine_o2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/29984959/yassi-ne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://discord.com/users/1325979065269882914" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo"  />
-  </a>
+    <img height="300" src="/gif/Developer Full Stack (4).gif"  />
 </div>
 
 ###
