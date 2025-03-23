@@ -81,13 +81,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="center" width="300">
-  <a href="https://open.spotify.com/user/31t52zcahfamxhyfsssn3i3lbyx4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t52zcahfamxhyfsssn3i3lbyx4&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
