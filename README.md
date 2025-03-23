@@ -75,6 +75,11 @@
   </a>
 </div>
 
+
+<div align="center">
+    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
+</div>
+
 ###
 
 <h4 align="center">* * *</h4>
@@ -89,10 +94,4 @@
 
 ###
 
-<div align="center">
-    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
-</div>
-
-
-###
 
