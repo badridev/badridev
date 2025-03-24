@@ -80,9 +80,3 @@
 </div>
 
 ###
-
-<div align="center">
-    <img width="853" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
-</div>
-
-###
