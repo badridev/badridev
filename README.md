@@ -3,7 +3,7 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> </div>
 
 <div align="center">
-    <img height="300" src="/gif/Developer Full Stack (1).gif"  />
+    <img height="300" src="/gif/Developer Full Stack.gif"  />
 </div>
 
 ###
@@ -64,9 +64,7 @@
 
 ###
 
-<div align="center">
-    <img width="850" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
-</div>
+<h4 align="center">* * *</h4>
 
 ###
 
@@ -79,6 +77,12 @@
 
 <div align="center">
     <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
+</div>
+
+###
+
+<div align="center">
+    <img width="853" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
 </div>
 
 ###
