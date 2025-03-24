@@ -8,7 +8,9 @@
 
 ###
 
-<h4 align="center">* * *</h4>
+<div align="center">
+    <img width="900" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
+</div>
 
 ###
 
@@ -18,7 +20,9 @@
 
 ###
 
-<h4 align="center">* * *</h4>
+<div align="center">
+    <img width="900" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
+</div>
 
 ###
 
@@ -46,7 +50,9 @@
 
 ###
 
-<h4 align="center">* * *</h4>
+<div align="center">
+    <img width="900" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
+</div>
 
 ###
 
@@ -65,7 +71,7 @@
 ###
 
 <div align="center">
-    <img width="1000" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
+    <img width="900" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
 </div>
 
 ###
