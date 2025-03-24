@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-    <img width="800" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
+    <img width="850" src="/gif/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="border-radius: 5px;" />
 </div>
 
 ###
