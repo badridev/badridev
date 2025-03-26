@@ -17,12 +17,12 @@
 
 <br clear="both">
 
-<p align="center">Hi there! I'm Yassine, a passionate web developer from <span  style="color: red;">Morocco</span>. I'm currently 20 years old and studying <span  style="color: red;">Digital Development (Web Development)</span> to enhance my skills and build amazing digital experiences.</p>
+<p align="center">Hi there! I'm Yassine, a passionate web developer from Morocco. I'm currently 20 years old and studying Digital Development (Web Development) to enhance my skills and build amazing digital experiences.</p>
 
 <details>
 <summary align="center">More about me...</summary>
 
-<p align="center">I have a strong interest in <span  style="color: red;">Web Development</span>, particularly in creating responsive and user-friendly websites. I also enjoy exploring <span  style="color: red;">UI/UX Design</span> to ensure websites are not only functional but also visually appealing and intuitive. Additionally, I am fascinated by <span  style="color: red;">Databases</span> and how data storage and management power modern web applications.</p>
+<p align="center">I have a strong interest in Web Development, particularly in creating responsive and user-friendly websites. I also enjoy exploring UI/UX Design to ensure websites are not only functional but also visually appealing and intuitive. Additionally, I am fascinated by Databases and how data storage and management power modern web applications.</p>
 
 </details>
 
