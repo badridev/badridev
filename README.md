@@ -51,6 +51,16 @@
 ###
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<h4 align="center">* * *</h4>
+
+###
+
+<div align="center">
   <a href="https://x.com/yassine_o2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo"  />
   </a>
@@ -81,10 +91,3 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-![Snake animation](https://github.com/BD-YASSINE/BD-YASSINE/blob/output/github-contribution-grid-snake.svg) 
-
-###
