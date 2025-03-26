@@ -22,7 +22,7 @@
 <details>
 <summary align="center">More about me...</summary>
 
-**`I have a strong interest in Web Development, particularly in creating responsive and user-friendly websites. I also enjoy exploring UI/UX Design to ensure websites are not only functional but also visually appealing and intuitive. Additionally, I am fascinated by Databases and how data storage and management power modern web applications.`**
+<p align="center">I have a strong interest in Web Development, particularly in creating responsive and user-friendly websites. I also enjoy exploring UI/UX Design to ensure websites are not only functional but also visually appealing and intuitive. Additionally, I am fascinated by Databases and how data storage and management power modern web applications.</p>
 
 </details>
 
