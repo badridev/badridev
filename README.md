@@ -27,6 +27,7 @@
 
 <details>
 <summary align="center">Skills & Langauges...</summary>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="15" />
@@ -58,6 +59,7 @@
 
 <details>
 <summary align="center">Contact me here...</summary>
+
 <div align="center">
   <a href="https://x.com/yassine_o2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo" />
