@@ -80,3 +80,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/snake.svg" alt="Snake animation" />
+
+###
