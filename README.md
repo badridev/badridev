@@ -92,8 +92,3 @@ I have a strong interest in Web Development, particularly in creating responsive
 
 ###
 
-<div align="right"> 
-**`Created by ERROR`***
-</div>
-
-###
