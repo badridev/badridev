@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="center">{ Country : "Morocco" , Age : 20 , Studying : "digital development ( web Development )" , Interests : "Web Development, UI/UX Design, Databases" }</p>
+<p align="center">{ Country : "Morocco" <br> Age : 20 <br> Studying : "digital development ( web Development )" <br> Interests : "Web Development, UI/UX Design, Databases" }</p>
 
 ###
 
