@@ -1,5 +1,5 @@
-<div align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" /> 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" />
 </div>
 
 <div align="center">
@@ -68,31 +68,26 @@
 
 ###
 
-<!-- Add buttons to toggle visibility -->
-<div align="center">
-  <button onclick="toggleVisibility('contribution-graph')">Toggle Contribution Graph</button>
-  <button onclick="toggleVisibility('last-picture')">Toggle Last Picture</button>
-</div>
+<!-- Collapsible Section for Contribution Graph -->
+<details>
+  <summary>Click to Show/Hide Contribution Graph</summary>
 
-<!-- Contribution Graphs -->
-<div align="center" id="contribution-graph">
-  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="179.5" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="179.5" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="179.5" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="179.5" alt="languages graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph" />
+  </div>
 
-<!-- Last Picture -->
-<div align="center" id="last-picture">
+</details>
+
+<!-- Collapsible Section for Last Picture -->
+<details>
+  <summary>Click to Show/Hide Last Picture</summary>
+
+  <div align="center">
     <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
-</div>
+  </div>
 
-<script>
-  function toggleVisibility(id) {
-    var element = document.getElementById(id);
-    if (element.style.display === "none") {
-      element.style.display = "block";
-    } else {
-      element.style.display = "none";
-    }
-  }
-</script>
+</details>
+
+###
