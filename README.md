@@ -68,11 +68,15 @@
 
 ###
 
- <picture width="1050">
+ <picture width="1049">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BD-YASSINE/BD-YASSINE/output/pacman-contribution-graph.svg">
  </picture>
+
+###
+
+<h4 align="center">* * *</h4>
 
 ###
 
