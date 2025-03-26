@@ -12,21 +12,15 @@
 
 ###
 
-<details>
-   <summary align="center">About me...</summary>
 <br clear="both">
 
 <p align="center">{ Country : "Morocco" , Age : 20 , Studying : "digital development ( web Development )" , Interests : "Web Development, UI/UX Design, Databases" }</p>
-</details>
 
 ###
 
 <h4 align="center">* * *</h4>
 
 ###
-
-<details>
-<summary align="center">Skills & Langauges...</summary>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -49,16 +43,12 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
-</details>
 
 ###
 
 <h4 align="center">* * *</h4>
 
 ###
-
-<details>
-<summary align="center">Contact me here...</summary>
 
 <div align="center">
   <a href="https://x.com/yassine_o2" target="_blank">
@@ -71,17 +61,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo" />
   </a>
 </div>
-</details>
 
 ###
 
 <h4 align="center">* * *</h4>
 
 ###
-
-<!-- Collapsible Section for Contribution Graph -->
-<details>
-  <summary align="center">Stats & Contribution Graph...</summary>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="179.5" alt="stats graph" />
@@ -92,7 +77,5 @@
   <div align="center">
     <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
   </div>
-
-</details>
 
 ###
