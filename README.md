@@ -12,9 +12,12 @@
 
 ###
 
+<details>
+   <summary align="center">About me...</summary>
 <br clear="both">
 
-<p align="center">{ Country : "Morocco" , Age : 20 , Studying : "digital development ( web Development )" }</p>
+<p align="center">{ Country : "Morocco" , Age : 20 , Studying : "digital development ( web Development )" , Interests : "Web Development, UI/UX Design, Databases" }</p>
+</details>
 
 ###
 
@@ -22,6 +25,8 @@
 
 ###
 
+<details>
+<summary align="center">Skills & Langauges...</summary>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="15" />
@@ -43,6 +48,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
+</details>
 
 ###
 
@@ -50,6 +56,8 @@
 
 ###
 
+<details>
+<summary align="center">Contact me here...</summary>
 <div align="center">
   <a href="https://x.com/yassine_o2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo" />
@@ -61,6 +69,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo" />
   </a>
 </div>
+</details>
 
 ###
 
@@ -77,12 +86,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="179.5" alt="languages graph" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph" />
   </div>
-
-</details>
-
-<!-- Collapsible Section for Last Picture -->
-<details>
-  <summary align="center">Read this...</summary>
 
   <div align="center">
     <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
