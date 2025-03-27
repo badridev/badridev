@@ -87,7 +87,7 @@ I have a strong interest in Web Development, particularly in creating responsive
   </div>
 
   <div align="center">
-    <img width="1050" src="/gif/Developer Full Stack (2).png" style="border-radius: 5px;" />
+    <img  src="/gif/word.png" style="border-radius: 5px;" />
   </div>
 
 ###
