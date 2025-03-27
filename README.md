@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img  src="/gif/kk.gif" />
+    <img  src="/gif/stickled.gif" />
 </div>
 
 ###
