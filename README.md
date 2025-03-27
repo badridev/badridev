@@ -35,25 +35,29 @@ I have a strong interest in Web Development, particularly in creating responsive
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
+   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo"  />
 </div>
 
 ###
