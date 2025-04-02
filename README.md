@@ -34,7 +34,7 @@ I have a strong interest in Web Development, particularly in creating responsive
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
