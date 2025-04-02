@@ -59,12 +59,9 @@ I have a strong interest in Web Development, particularly in creating responsive
    <img width="15" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="15" />
-  
-</div>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
 ###
