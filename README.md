@@ -41,7 +41,7 @@ I have a strong interest in Web Development, particularly in creating responsive
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="15" />
@@ -61,7 +61,7 @@ I have a strong interest in Web Development, particularly in creating responsive
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
