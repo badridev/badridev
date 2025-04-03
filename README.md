@@ -94,7 +94,7 @@ I have a strong interest in Web Development, particularly in creating responsive
   </div>
 
   <div align="center">
-    <img  src="/gif/updatewords.gif" style="border-radius: 5px;" />
+    <img  src="/gif/wordsupdate.gif" style="border-radius: 5px;" />
   </div>
 
 ###
