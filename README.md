@@ -93,6 +93,12 @@ I have a strong interest in Web Development, particularly in creating responsive
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="179.5" alt="languages graph" />
   </div>
 
+###
+
+<h4 align="center">* * *</h4>
+
+###
+
   <div align="center">
     <img  src="/gif/wordsupdate.gif" style="border-radius: 5px;" />
   </div>
