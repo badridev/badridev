@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img width="1080"  src="/gif/head.gif" />
+    <img width="1080"  src="/gif/header.gif" />
 </div>
 
 ###
@@ -101,7 +101,7 @@ I have a strong interest in Web Development, particularly in creating responsive
 ###
 
 <div align="center">
-    <img width="1080"  src="/gif/foot-er.gif" />
+    <img width="1080"  src="/gif/footer.gif" />
 </div>
 
 ###
