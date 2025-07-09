@@ -34,10 +34,6 @@ I have a strong interest in Web Development, particularly in creating responsive
 
 ###
 
-<h4 align="center">Programming Languages</h4>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -50,29 +46,13 @@ I have a strong interest in Web Development, particularly in creating responsive
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h4 align="center">Frameworks & Libraries</h4>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h4 align="center">Development Tools</h4>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -81,8 +61,6 @@ I have a strong interest in Web Development, particularly in creating responsive
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
-
-###
 
 ###
 
@@ -95,7 +73,7 @@ I have a strong interest in Web Development, particularly in creating responsive
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo" />
   </a>
   <a href="https://stackoverflow.com/users/29984959/yassi-ne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="40" alt="stackoverflow logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="50" alt="stackoverflow logo" />
   </a>
   <a href="https://discord.com/users/1325979065269882914" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo" />
