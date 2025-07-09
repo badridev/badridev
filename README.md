@@ -73,7 +73,7 @@ I have a strong interest in Web Development, particularly in creating responsive
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo" />
   </a>
   <a href="https://stackoverflow.com/users/29984959/yassi-ne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="50" alt="stackoverflow logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="30" alt="stackoverflow logo" />
   </a>
   <a href="https://discord.com/users/1325979065269882914" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="30" alt="discord logo" />
