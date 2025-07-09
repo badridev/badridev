@@ -70,16 +70,16 @@ I have a strong interest in Web Development, particularly in creating responsive
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/yassine_o2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/yassine_o2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/1325979065269882914" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
   </a>
 </div>
 
@@ -90,8 +90,8 @@ I have a strong interest in Web Development, particularly in creating responsive
 ###
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="179" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="182" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="178.5" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="178.5" alt="languages graph" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&radius=5&theme=nightowl&area=true&order=5&hide_border=true" height="396" alt="activity-graph graph" />
   </div>
 
