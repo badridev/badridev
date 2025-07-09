@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img width="1080"  src="/gif/top.gif" />
+    <img width="1080"  src="/images/Always online — in the matrix or in the match. (2).png" />
 </div>
 
 ###
@@ -96,12 +96,3 @@ I have a strong interest in Web Development, particularly in creating responsive
 
 ###
 
-<h4 align="center">* * *</h4>
-
-###
-
-<div align="center">
-    <img width="1080"  src="/gif/bottom.gif" />
-</div>
-
-###
