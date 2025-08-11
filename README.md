@@ -53,6 +53,8 @@ I have a strong interest in Web Development, particularly in creating responsive
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
