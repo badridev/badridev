@@ -28,9 +28,12 @@ Always learning, always creating 🚀
 
 🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  
 
-✨ **See more:** [Check My Portfolio...](https://bd-yassine.github.io/Portfolio/)
-
 </div>
+
+<div align="right">
+  ✨ <b>See more:</b> <a href="https://bd-yassine.github.io/Portfolio/" target="_blank">Check My Portfolio...</a>
+</div>
+
 
 
 
