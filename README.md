@@ -180,11 +180,6 @@ Always learning, always creating 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&bg_color=0d1117&color=ffffff&line=ff734d&point=ff734d&area_color=ff734d&area=true&hide_border=true" height="350"/>
-</div>
-
-
 
 <h2 align="center">🌍 Connect With Me</h2>
 
