@@ -38,6 +38,7 @@ Always learning, always creating 🚀
 <table>
   <tr>
     <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/BD-YASSINE/portfolio/main/screenshot.png" alt="Portfolio Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
       <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
       <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my work and skills.</p>
       <a href="https://github.com/BD-YASSINE/portfolio" target="_blank">
@@ -45,6 +46,7 @@ Always learning, always creating 🚀
       </a>
     </td>
     <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/BD-YASSINE/ecommerce/main/screenshot.png" alt="E-Commerce Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
       <h3 style="color:#ff734d;">📦 E-Commerce Platform</h3>
       <p>A scalable e-commerce app with <b>Laravel + MySQL</b> including authentication & payment integration.</p>
       <a href="https://github.com/BD-YASSINE/ecommerce" target="_blank">
@@ -54,6 +56,7 @@ Always learning, always creating 🚀
   </tr>
   <tr>
     <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/BD-YASSINE/task-manager/main/screenshot.png" alt="Task Manager Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
       <h3 style="color:#ff734d;">📊 Task Manager</h3>
       <p>A <b>MERN stack</b> app for managing tasks with JWT authentication & drag-and-drop UI.</p>
       <a href="https://github.com/BD-YASSINE/task-manager" target="_blank">
@@ -61,6 +64,7 @@ Always learning, always creating 🚀
       </a>
     </td>
     <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <img src="https://raw.githubusercontent.com/BD-YASSINE/chat-app/main/screenshot.png" alt="Chat App Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
       <h3 style="color:#ff734d;">💬 Chat App</h3>
       <p>Real-time chat application built with <b>Node.js, Express, and Socket.io</b>.</p>
       <a href="https://github.com/BD-YASSINE/chat-app" target="_blank">
@@ -71,6 +75,7 @@ Always learning, always creating 🚀
 </table>
 
 </div>
+
 
 ---
 
