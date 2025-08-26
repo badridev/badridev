@@ -24,22 +24,22 @@ I specialize in building modern web applications with efficient **front-end and 
 
 ## 🛠️ Tech Stack  
 
-<h3 align="center">🖥️ Frontend</h3>  
+### 🖥️ Frontend  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,bootstrap" />
 </div>  
 
-<h3 align="center">⚙️ Backend</h3>  
+### ⚙️ Backend  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </div>  
 
-<h3 align="center">🗄️ Databases</h3>  
+### 🗄️ Databases  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>  
 
-<h3 align="center">🔧 Tools & Others</h3>  
+### 🔧 Tools & Others  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
 </div>  
