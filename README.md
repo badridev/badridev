@@ -1,10 +1,10 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
-</div>
 <div align="center">
 
 <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner"/>
 
+</div>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
 
