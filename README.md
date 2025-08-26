@@ -5,14 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
-  <!-- Portfolio Link Button -->
-  <div style="margin-top: 15px;">
-    <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" 
-       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
-      Visit My Portfolio
-    </a>
-  </div>
-</div>
 
 
 
@@ -38,6 +30,14 @@ Always learning, always creating 🚀
 
 </div>
 
+  <!-- Portfolio Link Button -->
+  <div style="margin-top: 15px;">
+    <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" 
+       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
+      Visit My Portfolio
+    </a>
+  </div>
+</div>
 
 
 <h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
