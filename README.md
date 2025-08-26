@@ -1,10 +1,22 @@
 <div align="center">
   <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
   
-  <!-- Portfolio Link Button -->
-  <div style="margin-top: 15px;">
-    <a href="https://yassine-portfolio.com" target="_blank" 
-       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
+  <!-- Styled Portfolio Link Button -->
+  <div style="margin-top: 20px;">
+    <a href="https://yassine-portfolio.com" target="_blank"
+       style="
+          background-color: #ff734d;
+          color: white;
+          padding: 12px 25px;
+          border-radius: 12px;
+          text-decoration: none;
+          font-weight: bold;
+          font-size: 18px;
+          box-shadow: 0 4px 12px rgba(255, 115, 77, 0.4);
+          transition: all 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#ff8a66'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 16px rgba(255,115,77,0.5)';"
+       onmouseout="this.style.backgroundColor='#ff734d'; this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(255,115,77,0.4)';">
       Visit My Portfolio
     </a>
   </div>
