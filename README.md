@@ -131,12 +131,25 @@ Always learning, always creating 🚀
 
 <h2 align="center">🌍 Connect With Me</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/"><img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/29984959/error"><img src="https://img.shields.io/badge/Stackoverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://x.com/yassine_o2"><img src="https://img.shields.io/badge/Twitter-ff734d?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.com/users/1325979065269882914"><img src="https://img.shields.io/badge/Discord-ff734d?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>  
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+
+  <a href="https://x.com/yassine_o2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-ff734d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+</div>
 
 ---
 
