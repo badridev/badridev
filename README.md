@@ -30,14 +30,23 @@ Always learning, always creating 🚀
 
 </div>
 
-  <!-- Portfolio Link Button -->
-  <div style="margin-top: 15px;">
-    <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" 
-       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
-      Visit My Portfolio
-    </a>
-  </div>
+<!-- Portfolio Link Button -->
+<div align="center" style="margin-top: 15px;">
+  <a href="https://bd-yassine.github.io/Portfolio/" target="_blank"
+     style="
+       display: inline-block;
+       background: linear-gradient(90deg, #ff734d, #ff5a1a);
+       color: #fff;
+       padding: 12px 24px;
+       border-radius: 10px;
+       text-decoration: none;
+       font-weight: 600;
+       font-size: 16px;
+     ">
+    Visit My Portfolio
+  </a>
 </div>
+
 
 
 <h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
