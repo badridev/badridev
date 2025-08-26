@@ -31,46 +31,35 @@ Always learning, always creating 🚀
 
 ---
 
-<h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
+---
 
-<div align="center">
+<h2 align="center">🚀 My Projects</h2>
 
-<table>
-  <tr>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
-      <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my work and skills.</p>
-      <a href="https://github.com/BD-YASSINE/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <h3 style="color:#ff734d;">📦 E-Commerce Platform</h3>
-      <p>A scalable e-commerce app with <b>Laravel + MySQL</b> including authentication & payment integration.</p>
-      <a href="https://github.com/BD-YASSINE/ecommerce" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <h3 style="color:#ff734d;">📊 Task Manager</h3>
-      <p>A <b>MERN stack</b> app for managing tasks with JWT authentication & drag-and-drop UI.</p>
-      <a href="https://github.com/BD-YASSINE/task-manager" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <h3 style="color:#ff734d;">💬 Chat App</h3>
-      <p>Real-time chat application built with <b>Node.js, Express, and Socket.io</b>.</p>
-      <a href="https://github.com/BD-YASSINE/chat-app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<!-- Project 1 -->
+<div style="background-color:#0d1117; border: 2px solid #ff734d; border-radius: 15px; width: 300px; padding: 15px; text-align:center;">
+  <img src="https://via.placeholder.com/280x150.png?text=Project+1" alt="Project 1" style="border-radius: 10px; margin-bottom: 12px;"/>
+  <h3 style="color:#ff734d;">Project 1</h3>
+  <p style="color:#ffffff;">This is a modern web application built with React and Node.js, featuring responsive design and full CRUD functionality.</p>
+</div>
+
+<!-- Project 2 -->
+<div style="background-color:#0d1117; border: 2px solid #ff734d; border-radius: 15px; width: 300px; padding: 15px; text-align:center;">
+  <img src="https://via.placeholder.com/280x150.png?text=Project+2" alt="Project 2" style="border-radius: 10px; margin-bottom: 12px;"/>
+  <h3 style="color:#ff734d;">Project 2</h3>
+  <p style="color:#ffffff;">An e-commerce platform powered by Laravel and MySQL, with secure authentication and dynamic product management.</p>
+</div>
+
+<!-- Project 3 -->
+<div style="background-color:#0d1117; border: 2px solid #ff734d; border-radius: 15px; width: 300px; padding: 15px; text-align:center;">
+  <img src="https://via.placeholder.com/280x150.png?text=Project+3" alt="Project 3" style="border-radius: 10px; margin-bottom: 12px;"/>
+  <h3 style="color:#ff734d;">Project 3</h3>
+  <p style="color:#ffffff;">A real-time chat application using Node.js, Express, and MongoDB, with WebSocket integration for instant messaging.</p>
+</div>
 
 </div>
+
 
 ---
 
