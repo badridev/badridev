@@ -1,11 +1,19 @@
 <div align="center">
-
-<img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner"/>
-
+  <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
+  
+  <!-- Portfolio Link Button -->
+  <div style="margin-top: 15px;">
+    <a href="https://yassine-portfolio.com" target="_blank" 
+       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
+      Visit My Portfolio
+    </a>
+  </div>
 </div>
-<div align="left">
+
+<div align="left" style="margin-top:10px;">
   <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
+
 
 ---
 
