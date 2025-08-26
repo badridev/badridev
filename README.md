@@ -1,71 +1,77 @@
 <div align="center">
 
-# Hi there, I'm Yassine 👋
-
-🚀 **Full-Stack Developer | React & Tailwind Enthusiast | PHP & MySQL Backend**  
-
-I'm passionate about building modern web applications with clean design and efficient backends.  
-I enjoy learning, coding, and improving my skills every day.  
-
----
-
-## 🧑‍💻 About Me
-🌍 Based in Morocco • 🎯 Focused on **Full-Stack Web Development**  
-💡 Strong in **Frontend (React, TailwindCSS)** and solid Backend (PHP, MySQL, Node.js)  
-📚 Always learning new tech and improving problem-solving skills  
-
----
-
-## 🛠️ Skills & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassineyassine&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineyassine&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yassineyassine&theme=radical&border_radius=10)
-
----
-
-## 🏆 GitHub Achievements & Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yassineyassine&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 🚀 Featured Projects
-
-🔗 [Hotel Reservation System](https://github.com/yassineyassine/hotel-reservation)  
-Full-stack booking system with React frontend and PHP/MySQL backend.  
-
-🔗 [Inventory Management Dashboard](https://github.com/yassineyassine/inventory-dashboard)  
-Product management app with authentication, profile management, and role-based access.  
-
-🔗 [Car Rental Platform](https://github.com/yassineyassine/car-rental)  
-MERN project with admin dashboard, availability system, and booking workflow.  
-
----
-
-## 🌍 Connect with Me
-
-💼 [LinkedIn](https://linkedin.com/in/yassine)  
-📧 Email: your-email@example.com  
-🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yassineyassine&color=blueviolet&style=for-the-badge)
-
-⭐️ From [Yassine](https://github.com/yassineyassine)
+<img width="100%" src="assets/banner.png" alt="Yassine's Banner"/>
 
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bd-yassine&label=Profile%20views&color=0e75b6&style=flat" alt="bd-yassine" />
+</div>
+
+---
+
+## 👋 About Me
+
+Hi there! I'm **Yassine**, a passionate web developer from Morocco.  
+I'm **20 years old**, studying *Digital Development (Web Development)* and building modern, responsive, and user-friendly applications.  
+
+💡 Interests:  
+- Frontend development (**React, TailwindCSS**)  
+- Backend systems (**PHP, Node.js**)  
+- UI/UX & Databases  
+
+---
+
+## 🛠️ Skills
+
+### 🚀 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</div>
+
+### 🗄️ Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</div>
+
+### 🔧 Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,docker" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&show_icons=true&theme=nightowl&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&layout=compact&langs_count=6&theme=nightowl&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BD-YASSINE&theme=nightowl&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&theme=nightowl&hide_border=true&radius=5&area=true" height="350"/>
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/29984959/error"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://x.com/yassine_o2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/1325979065269882914"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+---
+
+
