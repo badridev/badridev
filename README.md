@@ -7,19 +7,70 @@
   <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
+---
+
+<h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
+
+<p align="center">
+Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco 🇲🇦.  
+I enjoy building <b>modern, scalable web applications</b> with a focus on performance and clean design.  
+Always learning, always creating 🚀
+</p>
+
+<div align="center">
+
+💡 <b>What I Do</b>  
+- ⚛️ Build <b>front-end</b> with <b>React & TailwindCSS</b>  
+- ⚙️ Develop <b>back-end APIs</b> with <b>Express.js, Node.js, PHP, Laravel</b>  
+- 🛢️ Work with <b>databases</b>: MySQL & MongoDB  
+- 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects  
+
+🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  
+
+</div>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
 
-Hi, I'm **Yassine**, a **Full-Stack Developer** from Morocco 🇲🇦.  
-I specialize in building modern web applications with efficient **front-end and back-end** systems.  
+<div align="center">
 
-✨ What I Do:
-- 💼 Experienced in **React, TailwindCSS, PHP, MySQL, Node.js**  
-- 🌱 Learning advanced **system design & scalable architectures**  
-- ⚡ Passionate about **responsive, secure, and user-friendly apps**  
-- 🎯 Goal: Build and contribute to impactful full-stack projects  
+<table>
+  <tr>
+    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
+      <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my work and skills.</p>
+      <a href="https://github.com/BD-YASSINE/portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <h3 style="color:#ff734d;">📦 E-Commerce Platform</h3>
+      <p>A scalable e-commerce app with <b>Laravel + MySQL</b> including authentication & payment integration.</p>
+      <a href="https://github.com/BD-YASSINE/ecommerce" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <h3 style="color:#ff734d;">📊 Task Manager</h3>
+      <p>A <b>MERN stack</b> app for managing tasks with JWT authentication & drag-and-drop UI.</p>
+      <a href="https://github.com/BD-YASSINE/task-manager" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+      <h3 style="color:#ff734d;">💬 Chat App</h3>
+      <p>Real-time chat application built with <b>Node.js, Express, and Socket.io</b>.</p>
+      <a href="https://github.com/BD-YASSINE/chat-app" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -63,8 +114,6 @@ I specialize in building modern web applications with efficient **front-end and 
 
 </div>
 
-
-
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -94,4 +143,5 @@ I specialize in building modern web applications with efficient **front-end and 
 </div>  
 
 ---
+
 
