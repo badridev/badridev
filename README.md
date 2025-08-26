@@ -89,8 +89,6 @@ I specialize in building modern web applications with efficient **front-end and 
 </div>
 
 
-
-
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
