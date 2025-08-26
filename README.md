@@ -26,19 +26,9 @@ Always learning, always creating 🚀
 - 🛢️ Work with <b>databases</b>: MySQL & MongoDB
 - 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects
 
-🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  <a href="https://bd-yassine.github.io/Portfolio/" target="_blank"
-     style="
-       display: inline-block;
-       background: linear-gradient(90deg, #ff734d, #ff5a1a);
-       color: #fff;
-       padding: 12px 24px;
-       border-radius: 10px;
-       text-decoration: none;
-       font-weight: 600;
-       font-size: 16px;
-     ">
-    Visit My Portfolio
-  </a>
+🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  
+
+💼 <b>see more:</b> <a href="https://bd-yassine.github.io/Portfolio/" target="_blank"> Visit My Portfolio </a>
 
 </div>
 
