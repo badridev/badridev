@@ -1,22 +1,10 @@
 <div align="center">
   <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
   
-  <!-- Styled Portfolio Link Button -->
-  <div style="margin-top: 20px;">
-    <a href="https://yassine-portfolio.com" target="_blank"
-       style="
-          background-color: #ff734d;
-          color: white;
-          padding: 12px 25px;
-          border-radius: 12px;
-          text-decoration: none;
-          font-weight: bold;
-          font-size: 18px;
-          box-shadow: 0 4px 12px rgba(255, 115, 77, 0.4);
-          transition: all 0.3s ease;
-       "
-       onmouseover="this.style.backgroundColor='#ff8a66'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 16px rgba(255,115,77,0.5)';"
-       onmouseout="this.style.backgroundColor='#ff734d'; this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(255,115,77,0.4)';">
+  <!-- Portfolio Link Button -->
+  <div style="margin-top: 15px;">
+    <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" 
+       style="background-color:#ff734d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
       Visit My Portfolio
     </a>
   </div>
@@ -27,7 +15,6 @@
 </div>
 
 
----
 
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
@@ -39,17 +26,18 @@ Always learning, always creating 🚀
 
 <div align="left">
 
-💡 <b>What I Do</b>  
-- ⚛️ Build <b>front-end</b> with <b>React & TailwindCSS</b>  
-- ⚙️ Develop <b>back-end APIs</b> with <b>Express.js, Node.js, PHP, Laravel</b>  
-- 🛢️ Work with <b>databases</b>: MySQL & MongoDB  
-- 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects  
+💡 <b>What I Do</b>
 
-🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  
+- ⚛️ Build <b>front-end</b> with <b>React & TailwindCSS</b>
+- ⚙️ Develop <b>back-end APIs</b> with <b>Express.js, Node.js, PHP, Laravel</b>
+- 🛢️ Work with <b>databases</b>: MySQL & MongoDB
+- 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects
+
+🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>
 
 </div>
 
----
+
 
 <h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
 
@@ -57,47 +45,74 @@ Always learning, always creating 🚀
 
 <table>
   <tr>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/BD-YASSINE/portfolio/main/screenshot.png" alt="Portfolio Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
-      <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
-      <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my work and skills.</p>
-      <a href="https://github.com/BD-YASSINE/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/BD-YASSINE/ecommerce/main/screenshot.png" alt="E-Commerce Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
-      <h3 style="color:#ff734d;">📦 E-Commerce Platform</h3>
-      <p>A scalable e-commerce app with <b>Laravel + MySQL</b> including authentication & payment integration.</p>
-      <a href="https://github.com/BD-YASSINE/ecommerce" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
+<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+  <!-- Motary Screenshot -->
+  <img src="/assests/Capture d&apos;écran 2025-08-24 195713.png" 
+       alt="Motary Screenshot" 
+       width="100%" 
+       style="border-radius: 10px; margin-bottom: 10px;"/>
+       
+  <h3 style="color:#ff734d;">📱 Motary App</h3>
+  <p>A mobile-first application built with <b>React Native + Node.js + MongoDB</b> for managing personal notes and tasks efficiently.</p>
+  
+  <a href="https://github.com/BD-YASSINE/Motary" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+  <!-- InventoryPro Screenshot -->
+  <img src="/assests/Capture d&apos;écran 2025-07-20 114752.png" 
+       alt="InventoryPro Screenshot" 
+       width="100%" 
+       style="border-radius: 10px; margin-bottom: 10px;"/>
+       
+  <h3 style="color:#ff734d;">📦 InventoryPro</h3>
+  <p>A full-featured inventory management system built with <b>React + PHP + MySQL</b>, including user authentication, stock & sales management, and dashboard analytics.</p>
+  
+  <a href="https://github.com/BD-YASSINE/InventoryPro" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
   </tr>
   <tr>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/BD-YASSINE/task-manager/main/screenshot.png" alt="Task Manager Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
-      <h3 style="color:#ff734d;">📊 Task Manager</h3>
-      <p>A <b>MERN stack</b> app for managing tasks with JWT authentication & drag-and-drop UI.</p>
-      <a href="https://github.com/BD-YASSINE/task-manager" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/BD-YASSINE/chat-app/main/screenshot.png" alt="Chat App Screenshot" width="100%" style="border-radius: 10px; margin-bottom: 10px;"/>
-      <h3 style="color:#ff734d;">💬 Chat App</h3>
-      <p>Real-time chat application built with <b>Node.js, Express, and Socket.io</b>.</p>
-      <a href="https://github.com/BD-YASSINE/chat-app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
+<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+  <!-- Erra AI Design Screenshot -->
+  <img src="/assests/Capture d&apos;écran 2025-07-09 174913.png" 
+       alt="Erra AI Design Screenshot" 
+       width="100%" 
+       style="border-radius: 10px; margin-bottom: 10px;"/>
+       
+  <h3 style="color:#ff734d;">🎨 Erra AI Design</h3>
+  <p>A creative UI/UX design for <b>Erra AI</b>, showcasing user interface concepts and workflow ideas.</p>
+  
+  <a href="https://github.com/BD-YASSINE/Erra_AI" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
+<td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
+  <!-- Portfolio Screenshot -->
+  <img src="/assests/screenshot.png" 
+       alt="Portfolio Screenshot" 
+       width="100%" 
+       style="border-radius: 10px; margin-bottom: 10px;"/>
+       
+  <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
+  <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my projects, skills, and achievements.</p>
+  
+  <a href="https://github.com/BD-YASSINE/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+
   </tr>
 </table>
 
 </div>
 
 
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -139,20 +154,20 @@ Always learning, always creating 🚀
 
 </div>
 
----
+
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
-</div>   
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BD-YASSINE&bg_color=0d1117&color=ffffff&line=ff734d&point=ff734d&area_color=ff734d&area=true&hide_border=true" height="350"/>
-</div>  
+</div>
 
----
+
 
 <h2 align="center">🌍 Connect With Me</h2>
 
@@ -177,5 +192,3 @@ Always learning, always creating 🚀
 </div>
 
 ---
-
-
