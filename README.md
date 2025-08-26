@@ -17,7 +17,7 @@ I enjoy building <b>modern, scalable web applications</b> with a focus on perfor
 Always learning, always creating 🚀
 </p>
 
-<div align="center">
+<div align="left">
 
 💡 <b>What I Do</b>  
 - ⚛️ Build <b>front-end</b> with <b>React & TailwindCSS</b>  
