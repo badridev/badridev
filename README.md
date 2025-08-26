@@ -35,22 +35,23 @@ Always learning, always creating 🚀
 <table>
   <tr>
 <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- Motary Screenshot -->
+  <!-- Web App Screenshot -->
   <img src="/assests/Capture d&apos;écran 2025-08-24 195713.png" 
        alt="Motary Screenshot" 
        width="100%" 
        style="border-radius: 10px; margin-bottom: 10px;"/>
        
-  <h3 style="color:#ff734d;">📱 Motary App</h3>
-<p>
-  A mobile-first application built with <b>React Native + Node.js + MongoDB</b><br/>
-  for managing personal notes and tasks efficiently.
-</p>
+  <h3 style="color:#ff734d;">💻 Motary Web App</h3>
+  <p>
+    A responsive web application built with <b>React + Node.js + MongoDB</b><br/>
+    for managing personal notes and tasks efficiently.
+  </p>
 
   <a href="https://github.com/BD-YASSINE/Motary" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
+
 
 <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
   <!-- InventoryPro Screenshot -->
