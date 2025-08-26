@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
-
-
-
-
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -26,13 +22,11 @@ Always learning, always creating 🚀
 - 🛢️ Work with <b>databases</b>: MySQL & MongoDB
 - 🧑‍🤝‍🧑 Love collaborating on open-source and impactful projects
 
-🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>  
+🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>
 
 ✨ <b>If you want to know more, check my</b> <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" >Portfolio...</a>
 
 </div>
-
-
 
 <h2 align="center" style="color:#ff734d;">📂 My Projects</h2>
 
@@ -53,7 +47,6 @@ Always learning, always creating 🚀
   for managing personal notes and tasks efficiently.
 </p>
 
-  
   <a href="https://github.com/BD-YASSINE/Motary" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -111,8 +104,6 @@ Always learning, always creating 🚀
 
 </div>
 
-
-
 <h2 align="center" style="color:#ff734d;">🛠️ Tech Stack</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -165,16 +156,12 @@ Always learning, always creating 🚀
 
 </div>
 
-
-
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
 </div>
-
 
 <h2 align="center">🌍 Connect With Me</h2>
 
@@ -184,18 +171,16 @@ Always learning, always creating 🚀
     <img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
-    <img src="https://img.shields.io/badge/Stackoverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="mailto:yassine.badrii18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://x.com/yassine_o2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-ff734d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://stackoverflow.com/users/29984959/error" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-ff734d?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 
 </div>
-
-
