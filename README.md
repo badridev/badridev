@@ -53,7 +53,11 @@ Always learning, always creating 🚀
        style="border-radius: 10px; margin-bottom: 10px;"/>
        
   <h3 style="color:#ff734d;">📱 Motary App</h3>
-  <p>A mobile-first application built with <b>React Native + Node.js + MongoDB</b> for managing personal notes and tasks efficiently.</p>
+<p>
+  A mobile-first application built with <b>React Native + Node.js + MongoDB</b><br/>
+  for managing personal notes and tasks efficiently.
+</p>
+
   
   <a href="https://github.com/BD-YASSINE/Motary" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
