@@ -2,7 +2,7 @@
   <img width="100%" src="/assests/YASSINE.png" alt="Yassine's Banner" style="border-radius: 10px;"/>
   
 <div align="right" style="margin-top:10px;">
-  <img src="https://komarev.com/ghpvc/?username=BD-YASSINE&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=badridev&label=Profile%20views&color=ff734d&style=for-the-badge" alt="Profile views" />
 </div>
 
 <h2 align="center" style="color:#ff734d;">👨‍💻 About Me</h2>
@@ -24,7 +24,7 @@ Always learning, always creating 🚀
 
 🎯 <b>Goal:</b> Become an expert in <b>system design & scalable architectures</b>
 
-✨ <b>If you want to know more, check my</b> <a href="https://bd-yassine.github.io/Portfolio/" target="_blank" >Portfolio...</a>
+✨ <b>If you want to know more, check my</b> <a href="https://badridev.github.io/Portfolio/" target="_blank" >Portfolio...</a>
 
 </div>
 
@@ -47,7 +47,7 @@ Always learning, always creating 🚀
     for managing personal notes and tasks efficiently.
   </p>
 
-  <a href="https://github.com/BD-YASSINE/Motary" target="_blank">
+  <a href="https://github.com/badridev/Motary" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
@@ -63,7 +63,7 @@ Always learning, always creating 🚀
   <h3 style="color:#ff734d;">📦 InventoryPro</h3>
   <p>A full-featured inventory management system built with <b>React + PHP + MySQL</b>, including user authentication, stock & sales management, and dashboard analytics.</p>
   
-  <a href="https://github.com/BD-YASSINE/InventoryPro" target="_blank">
+  <a href="https://github.com/badridev/InventoryPro" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
@@ -80,7 +80,7 @@ Always learning, always creating 🚀
   <h3 style="color:#ff734d;">🎨 Erra AI Design</h3>
   <p>A creative UI/UX design for <b>Erra AI</b>, showcasing user interface concepts and workflow ideas.</p>
   
-  <a href="https://github.com/BD-YASSINE/Erra_AI" target="_blank">
+  <a href="https://github.com/badridev/Erra_AI" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
@@ -95,7 +95,7 @@ Always learning, always creating 🚀
   <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
   <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my projects, skills, and achievements.</p>
   
-  <a href="https://github.com/BD-YASSINE/Portfolio" target="_blank">
+  <a href="https://github.com/badridev/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
@@ -160,8 +160,8 @@ Always learning, always creating 🚀
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BD-YASSINE&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BD-YASSINE&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=badridev&show_icons=true&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badridev&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff734d&icon_color=ff734d&text_color=ffffff&hide_border=true" height="180"/>
 </div>
 
 <h2 align="center">🌍 Connect With Me</h2>
