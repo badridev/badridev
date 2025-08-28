@@ -172,7 +172,7 @@ Always learning, always creating 🚀
     <img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/yassinebadri_dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff734d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
