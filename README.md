@@ -171,6 +171,10 @@ Always learning, always creating 🚀
   <a href="https://www.linkedin.com/in/yassine-badri-0279a7342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff734d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff734d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 
   <a href="mailto:yassine.badrii18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ff734d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -185,3 +189,4 @@ Always learning, always creating 🚀
   </a>
 
 </div>
+
