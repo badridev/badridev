@@ -9,7 +9,7 @@
 
 <p align="center">
 Hi, I'm <b>Yassine</b>, a <b>Full-Stack Developer</b> from Morocco 🇲🇦.  
-I enjoy building <b>modern, scalable web applications</b> with a focus on performance and clean design.  
+I enjoy building <b>modern, scalable web applications</b> and <b>responsive landing pages</b> with a focus on performance and clean design.  
 Always learning, always creating 🚀
 </p>
 
