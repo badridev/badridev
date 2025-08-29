@@ -93,7 +93,8 @@ Always learning, always creating 🚀
        style="border-radius: 10px; margin-bottom: 10px;"/>
        
   <h3 style="color:#ff734d;">🩺 Health Tracker</h3>
-  <p>A comprehensive personal health management web app built with <b>React + TailwindCSS</b>, allowing users to track vitals, log activities, set goals, and securely share data with healthcare providers.</p>
+<p>A personal health management web app built with <b>React + TailwindCSS</b>. Users can track vitals, log activities, set goals, and share data securely with healthcare providers.</p>
+
   
   <a href="https://github.com/badriyassine/health_tracker" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
