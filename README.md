@@ -86,19 +86,20 @@ Always learning, always creating 🚀
 </td>
 
 <td width="45%" align="center" style="border: 2px solid #ff734d; border-radius: 15px; padding: 15px;">
-  <!-- Portfolio Screenshot -->
-  <img src="/assests/screenshot.png" 
-       alt="Portfolio Screenshot" 
+  <!-- Health Tracker Screenshot -->
+  <img src="/assests/Capture d&apos;écran 2025-08-29 025502.png" 
+       alt="Health Tracker Screenshot" 
        width="100%" 
        style="border-radius: 10px; margin-bottom: 10px;"/>
        
-  <h3 style="color:#ff734d;">🚀 Portfolio Website</h3>
-  <p>A personal portfolio built with <b>React + TailwindCSS</b> showcasing my projects, skills, and achievements.</p>
+  <h3 style="color:#ff734d;">🩺 Health Tracker</h3>
+  <p>A comprehensive personal health management web app built with <b>React + TailwindCSS</b>, allowing users to track vitals, log activities, set goals, and securely share data with healthcare providers.</p>
   
-  <a href="https://github.com/badriyassine/Portfolio" target="_blank">
+  <a href="https://github.com/badriyassine/health_tracker" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-ff734d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
+
 
   </tr>
 </table>
